@@ -14,7 +14,7 @@ Key Documentation:
   * docs/Rocket Trivia - Web Application Documentation.docx
       This document contains the final documentation for the project.
  
-  * docs/Rocket Trivia - Final Poster.pptx
+  * docs/Rocket Trivia - Poster.pptx
       This is the poster used for the presentation.      
 
 Video Documentation:
